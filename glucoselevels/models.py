@@ -7,4 +7,4 @@ class Values(models.Model):
     time = models.DateTimeField(default=None)
     value = models.PositiveBigIntegerField(default=None)
     
-    
+
